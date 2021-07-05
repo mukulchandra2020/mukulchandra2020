@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mukulchandra2020
-- 👀 I’m interested in ...Data scinee, Data Analytics, AI & ML 
+- 👀 I’m interested in ...Data Science, Data Analytics, AI & ML 
 - 🌱 I’m currently learning ...Data Analytics / Python / AI & ML 
 - 💞️ I’m looking to collaborate on ...Real time projects
 - 📫 How to reach me ...mklchandra@gmail.com
